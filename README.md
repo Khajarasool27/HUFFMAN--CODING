@@ -1,6 +1,6 @@
 # Huffman-Coding
-## Name : ABINESH M
-## Reg no : 212224040009
+## Name : B.Khaja Rasool
+## Reg no : 212224230040
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -30,7 +30,7 @@ print the characters and its huffmancode.
 # expt-11-huffman coding
 
 # Step 1: Get the input string
-input_string = "huffman coding"  # Example input string
+input_string = "Rasool"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
@@ -75,8 +75,8 @@ for char, code in huffman_codes.items():
 ## Output:
 
 ### Print the characters and its huffmancode
+<img width="927" height="253" alt="image" src="https://github.com/user-attachments/assets/4995c2b3-a55f-4451-a81e-2d8c06a0b20b" />
 
-<img width="328" height="156" alt="Screenshot 2026-09-12 112650" src="https://github.com/user-attachments/assets/c256a1b2-dc5f-436c-a5ef-2e737bf0c70b" />
 
 
 ## Result
